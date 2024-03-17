@@ -6,11 +6,9 @@ I got my high school diplomma in information technology from High School for Ele
 I'm currently learning Java, operating systems and data structures.
 I'm currently working on some projects for classes I attend.
 
-Also, I'm currently watching The X-Files. Great show.
-
 You can reach me via email: draganamajstorovic02@yahoo.com
 
-Some movies and tv shows recommendations that no one asked for: The Mentalist, Hercules, The Devil Wears Prada, Black Mirror, Brooklyn-99, A Star Is Born, Pride and Prejudice, Broken Arrow, Marley and Me...
+Some movies and tv shows recommendations that no one asked for: The Mentalist, The X-files, Hercules, The Devil Wears Prada, Black Mirror, Brooklyn-99, A Star Is Born, Pride and Prejudice, Broken Arrow, Marley and Me...
 
 <!--
 **drmajstorovic/drmajstorovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
