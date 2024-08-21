@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Dragana. I live in a small country and study computer science. I love to program, read, watch movies and shows, play Minecraft, bake&cook and take walks. I love animals, espetially kitties. I enjoy small and simple things, like walking by a cute house, seeing a rainbow, approaching a cat or a dog, swinging on a swing, visiting nice coffee shop, watching a sunset from a high place or admiring a starry night sky.
+My name is Dragana. I live in a small country and study computer science. I love to program, read, watch movies and shows, play Minecraft, bake&cook and take walks. I love animals, especially kitties. I enjoy small and simple things, like walking by a cute house, seeing a rainbow, approaching a cat or a dog, swinging on a swing, visiting nice coffee shop, watching a sunset from a high place or admiring a starry night sky.
 
 I got my high school diplomma in information technology from High School for Electrical Engineering Prijedor. There I learned C, C++, C#, HTML, CSS, JavaScript, php, SQL, as well as skills with variety of software, like Microsoft Office (Word, Excel, Access and PowerPoint), Matlab, Corel Draw, Cisco Packet Tracer, Visual Studio...
 I'm currently learning Java, operating systems and data structures.
